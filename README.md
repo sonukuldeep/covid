@@ -1,3 +1,3 @@
-# covid
-corona
-A part time project created just for fun and learn tiddlyWiki and html
+# covid case study
+
+A part time project created with real data to aid my learning of html, css and JS.
